@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>fxviewer</artifactId>
+    <artifactId>printer-command-fxviewer</artifactId>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
@@ -48,7 +48,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                top.lt623tl.printercommandviewer/top.lt623tl.top.lt623tl.printercommandviewer.HelloApplication
+                                top.lt623tl.printercommandviewer.HelloApplication
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
